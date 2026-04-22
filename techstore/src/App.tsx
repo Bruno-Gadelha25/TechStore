@@ -52,7 +52,7 @@ const products: Product[] = [
   },
   {
     id: "4",
-    name: "Samsung S24 Ultra",
+    name: "Samsung S21 5G",
     price: "R$ 7.200",
     category: "Smartphone",
     image: "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&q=80&w=800",
