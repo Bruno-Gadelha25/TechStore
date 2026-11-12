@@ -40,7 +40,7 @@ const products: Product[] = [
     name: "MacBook Pro M3",
     price: "R$ 14.200",
     category: "Computador",
-    image: "https://images.unsplash.com/photo-1660851410191-f8a4f913f41a?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&q=80&w=800",
     tag: "Performance"
   },
   {
